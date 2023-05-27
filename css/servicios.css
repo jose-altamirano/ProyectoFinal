@@ -1,0 +1,40 @@
+/* Estilos para la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(/imagenes/tennis-Melbourne-stadium-aerial-view-1601157-wallhere.com.jpg);
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .service {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #ddd;
+  }
+  
+  .service h2 {
+    margin: 0;
+  }
+  
+  .service p {
+    margin-top: 10px;
+  }
+  
